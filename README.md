@@ -1,7 +1,7 @@
 # Wooting Design Files
 This repo contains design files for our keyboards. This includes STL files for the bottom case and the ANSI and ISO top plates. 
 
-Our goal is to promote custom designs and custom accessories for they keyboard. If you have made anything custom please post it on our [discord](https://wooting.io/discord)!
+Our goal is to promote custom designs and custom accessories for their keyboard. If you have made anything custom please post it on our [discord](https://wooting.io/discord)!
 
 ## License
 
